@@ -1,4 +1,2 @@
-# Select DIV
-0 : ALL
-1 : Start
-2 : Done
+Todo List
+ Todo list is stored in local strorage in browser.
