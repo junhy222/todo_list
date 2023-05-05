@@ -1,0 +1,14 @@
+.tab_content {
+  top: 41px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  padding: 25px;
+  border-top: 1px solid #caccdb;
+  border-bottom: 1px solid #caccdb;
+  overflow: auto;
+  height: 500px;
+}
+.done_context {
+  text-decoration: line-through
+}
